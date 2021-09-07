@@ -3,21 +3,21 @@ const details = [{
         name: "Tucker",
         breed: "Golden Retriever",
         img: "images/img-1-modified.png",
-        quality: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab excepturi sit, enim obcaecati animi quisquam",
+        quality: "Lorem ipsum dolor sit amet",
     },
     {
         id: 2,
         name: "Indie",
         breed: "Indian Street",
         img: "images/img-2-modified.png",
-        quality: "consectetur Lorem ipsum dolor sit amet  adipisicing elit. Ab excepturi sit, enim obcaecati animi quisquam",
+        quality: "consectetur Lorem ipsum dolor sit",
     },
     {
         id: 3,
         name: "loki",
         breed: "Husky",
         img: "images/img-3-modified.png",
-        quality: "obcaecati animi quisquam Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab excepturi sit, enim ",
+        quality: "obcaecati animi quisquam Lorem ipsum",
     },
 ]
 
